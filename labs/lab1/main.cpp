@@ -7,9 +7,11 @@ int main()
     int16_t A2 = -1;
     int16_t A3 = 1;
 
+    
     int16_t B1 = 1;
     int16_t B2 = -15;
     int16_t B3 = 6;
+
 
     int16_t C1 = 0;
     int16_t C2 = 0;
